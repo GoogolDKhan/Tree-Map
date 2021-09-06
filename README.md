@@ -1,4 +1,4 @@
-# D3: Tree Map (Movies) [![CodeFactor](https://www.codefactor.io/repository/github/googoldkhan/tree-map/badge)](https://www.codefactor.io/repository/github/googoldkhan/tree-map)
+# D3: Tree Map (Movies) [![CodeFactor](https://www.codefactor.io/repository/github/googoldkhan/treemap-diagram/badge)](https://www.codefactor.io/repository/github/googoldkhan/treemap-diagram)
 
 - Data visualization of Highest Grossing Movies by genre type with a Treemap Diagram using D3
 
