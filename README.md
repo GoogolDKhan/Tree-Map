@@ -12,6 +12,6 @@
 
 - This project is inspired by [FCC: D3 Tree Map](https://codepen.io/freeCodeCamp/full/KaNGNR)
 
-- Cheers to Ganesh H for providing an awesome [writen guide](https://www.notion.so/Visualize-Data-with-a-Treemap-Diagram-1192d4ebd1164277b769f74eaf7a5d26)
+- Cheers to Ganesh H for providing an awesome [written guide](https://www.notion.so/Visualize-Data-with-a-Treemap-Diagram-1192d4ebd1164277b769f74eaf7a5d26)
 
 - Dated : 25-06-2021
